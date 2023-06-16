@@ -1,0 +1,13 @@
+export {default as Layout} from'./Layout'
+export {default as ContactPage} from'./ContactPage'
+export {default as HomePage} from'./HomePage'
+export {default as ProfilePage} from'./ProfilePage'
+export {default as CartPage} from'./CartPage'
+export {default as AuthPage} from'./AuthPage'
+export {default as CardPage} from'./CardPage'
+export {default as BookPage} from'./BookPage'
+export {default as CommandePage} from'../CommandePage'
+export {default as DetailArticle} from'../../components/public/DetailArticle'
+export{default as Cards} from '../../components/public/Cards'
+export{default as DetailPage} from './DetailPage'
+
